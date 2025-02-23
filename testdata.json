@@ -5,7 +5,7 @@
      "longitude": 132.473831501,
      "latitude": 34.249594206,
      "owner": "田島晴義",
-     "owneraddress": "江田島町中央二丁目13-19",},
+     "owneraddress": "江田島町中央二丁目13-19"}
     
   ],
   "person": [
@@ -16,7 +16,7 @@
     "latitude": 34.247717443,
     "alone": true,
     "kaigo": true,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "鈴木花子",
@@ -25,7 +25,7 @@
     "latitude": 34.245993333,
     "alone": false,
     "kaigo": false,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "山本太郎",
@@ -34,7 +34,7 @@
     "latitude": 34.247717443,
     "alone": false,
     "kaigo": true,
-    "elderly": false,
+    "elderly": false
   },
   {
     "headname": "高橋勝",
@@ -43,7 +43,7 @@
     "latitude": 34.255240394,
     "alone": false,
     "kaigo": false,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "中村太",
@@ -52,7 +52,7 @@
     "latitude": 34.247717443,
     "alone": false,
     "kaigo": true,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "中田マサ",
@@ -61,7 +61,7 @@
     "latitude": 34.254207987,
     "alone": true,
     "kaigo": true,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "伊藤ハナ",
@@ -70,7 +70,7 @@
     "latitude": 34.233634668,
     "alone": true,
     "kaigo": false,
-    "elderly": false,
+    "elderly": false
   },
   {
     "headname": "湯浅道夫",
@@ -79,7 +79,7 @@
     "latitude": 34.210126208,
     "alone": false,
     "kaigo": false,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "渡辺ツル",
@@ -88,7 +88,7 @@
     "latitude": 34.210566864,
     "alone": false,
     "kaigo": false,
-    "elderly": true,
+    "elderly": true
   },
   {
     "headname": "山口幸雄",
@@ -97,7 +97,7 @@
     "latitude": 34.210834039,
     "alone": false,
     "kaigo": false,
-    "elderly": false,
-  },
-  ],
+    "elderly": false
+  }
+  ]
 }
