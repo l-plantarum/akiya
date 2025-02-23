@@ -1,4 +1,14 @@
-[
+{
+  akiya: [
+    {"id": "0329",
+     "address": "江田島町中央二丁目13-18",
+     "longitude": 132.473831501,
+     "latitude": 34.249594206,
+     "owner": "田島晴義",
+     "owneraddress": "江田島町中央二丁目13-19",},
+    
+  ],
+  person: [
   {
     "headname": "田中一郎",
     "address": "江田島町中央一丁目15-3",
@@ -89,5 +99,5 @@
     "kaigo": false,
     "elderly": false,
   },
-
-]
+  ],
+}
